@@ -12,13 +12,13 @@ Gabriel Díaz Cerón <br>
 Francisco Nuñez Hernandez
 
 
-### Methods Used
+### Metodologias Usadas
 * Inferential Statistics
 * Machine Learning
 * Data Visualization
 * Predictive Modeling
 
-### Technologies
+### Tecnologias
 * Python
 * Google Colabs
 * Pandas
