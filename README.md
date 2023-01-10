@@ -12,13 +12,13 @@ Gabriel Díaz Cerón <br>
 Francisco Nuñez Hernandez
 
 
-### Metodologias Usadas
+### Metodologías Usadas
 * Inferential Statistics
 * Machine Learning
 * Data Visualization
 * Predictive Modeling
 
-### Tecnologias
+### Tecnologías
 * Python
 * Google Colabs
 * Pandas
@@ -27,7 +27,7 @@ Francisco Nuñez Hernandez
 * Sklearn
 * Seaborn
 
-## Descripcion del Proyecto
+## Descripción del Proyecto
 El mundo del Vino es un tema muy complejo
 y entendido solo para algunos. Es por eso por lo que con este proyecto
 nos adentraremos a descubrir, los secretos de lo que
