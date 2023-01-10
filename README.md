@@ -1,8 +1,5 @@
-# WineQuality
 
-
-
-# Investigación de calidad del Vino
+# Investigación de calidad del Vino (WineQuality)
 Este proyecto es parte de la cursada de Data Science en CoderHouse en la Comisión 29805.
 
 #### -- Project Status: [Completo]
