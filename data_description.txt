@@ -1,0 +1,76 @@
+Type (Tipo): Identidica el tipo de Vino. (Unicamente 2 de todos los tipos que existen)
+	White	Vino Blanco.
+	Red	Vino Tinto.
+
+
+
+Fixed acidity (Acidez Fija): Químicamente, los ácidos influyen en la acidez titulable
+	que afecta el sabor y el pH, lo que afecta el color, la estabilidad a la oxidación 
+	y en consecuencia, la vida útil general de un vino.
+		
+	
+
+Volatile Acidity (Acidez Volatil): Se refiere a los ácidos destilables al vapor 
+	presentes en el vino, principalmente ácido acético pero también ácidos láctico, 
+	fórmico, butírico y propiónico.
+
+
+
+Citric Acid	(Acido Cítrico): Su uso está permitido y confiere una cierta frescura a los
+	vinos conviene agregarlo luego que el vino esté estabilizado con el dióxido de azufre (SO2),
+	pues es un sustrato muy sensible a la acción de las bacterias lácticas. También presenta una
+	sensación final amarga.
+
+
+
+Residual Sugar (Azúcar Residual): El azúcar residual es la cantidad total de azúcar que queda
+	en el vino que no ha sido fermentada por las levaduras, y parte de ese azúcar no fermentado
+	son las Pentosas, azúcares presentes en el vino en concentraciones cercanas a 1 gramo por
+	litro de mosto.
+
+
+
+Chlorides (Cloruros): Una de las sales minerales del vino, interfiere con el característico sabor
+	salado del vino. El vino contiene de 2 a 4 gramos de sales por litro.
+
+
+
+
+Free Sulfur Dioxide (Dióxido de Azufre Libre): Un potente antimicrobiano que, además, es valioso
+	por sus funciones antioxidantes. Dos favores que, con el paso del tiempo, se han puesto
+	en entredicho a pesar de sus virtudes y la tradición de su uso.
+
+
+
+Total Sulfur Dioxide (Dióxido de Azufre Total): Se utiliza en la enología principalmente
+	como conservante, pero también para otros usos (por ejemplo, para funciones antisépticas,
+	antioxidantes, antioxidasas, solubilizantes, de combinación y clarificadoras).
+
+
+
+Density (Densidad): Tambien conocido como "peso específico" del vino es un parámetro
+	analítico de importancia relativa. Si estrujamos uvas y medimos la densidad de ese
+	mosto comprobamos que pesa más que el agua. Un litro de agua pesa 1.000 gramos y un
+	litro de mosto pesa 994 gramos, pero no siempre es lo mismo.
+
+
+
+pH (ph): Es una medida de acidez o alcalinidad de una disolución acuosa.
+	El pH indica la concentración de iones de hidrógeno presentes en determinadas disoluciones.
+	La sigla significa potencial de hidrógeno o potencial de hidrogeniones.
+
+
+
+Sulphates (Sulfatos): Se usan porque tienen funciones conservantes, son antioxidantes, agentes
+	antimicrobianos y antioxidásicos.
+
+
+
+Alcohol (Alcohol): Al ser una bebida fermentada, el vino cuenta con una graduación alcohólica 
+	producto de la descomposicion de azucares, en el vino esta oscila entre los 3,5 y los 15 grados.
+
+
+
+Quality (Calidad): La nota con la que se representa la calidad un vino.
+
+
