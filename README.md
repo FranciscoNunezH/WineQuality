@@ -11,7 +11,7 @@ Este proyecto es parte de la cursada de Data Science en CoderHouse en la Comisi�
 El objeto de este proyecto es el de obtener un modelo de prediga si un vino es de buena calidad.
 
 ### Integrantes
-Gabriel Díaz Cerón
+Gabriel Díaz Cerón <br>
 Francisco Nuñez Hernandez
 
 
